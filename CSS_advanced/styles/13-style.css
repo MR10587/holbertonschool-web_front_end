@@ -13,6 +13,7 @@ body {
 
 a[href] {
     text-decoration: none;
+    font-style: italic;
 }
 
 a[href]:visited {
