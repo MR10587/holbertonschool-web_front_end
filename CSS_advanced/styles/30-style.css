@@ -622,7 +622,7 @@ ul.row {
     height: 30rem;
     width: 100%;
     object-fit: cover;
-    text-align: bottom;
+    vertical-align: bottom;
 }
 
 .card-work .card-inner {
@@ -637,7 +637,7 @@ ul.row {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
-.card-word .card-title {
+.card-work .card-title {
     text-align: center;
     margin: 0;
     opacity: 0;
@@ -657,6 +657,7 @@ ul.row {
     bottom: 0;
     right: 0;
     left: 0;
+    content: ""
 }
 
 .card-work:hover .card-title {
