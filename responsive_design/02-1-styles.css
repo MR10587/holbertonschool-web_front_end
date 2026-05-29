@@ -433,6 +433,10 @@
     .section-latest-news .row {
       flex-direction: column;
     }
+
+      .navbar-menu {
+      display: none;
+    }
   }
   /* Section SERVICES
       ============================= */
