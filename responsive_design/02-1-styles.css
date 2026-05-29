@@ -434,8 +434,11 @@
       flex-direction: column;
     }
 
-      .navbar-menu {
+    .navbar-menu {
       display: none;
+    }
+    .header .nav {
+      flex-direction: column;
     }
   }
   /* Section SERVICES
